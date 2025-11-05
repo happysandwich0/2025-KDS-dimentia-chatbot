@@ -1,0 +1,4 @@
+﻿id,claim_text,summary,entities,type,topic,topic_confidence,time_reference,relative_offset_days,timestamp,original_utterance_raw,original_utterance_std,decision,consistency_binary,dialect_confidence,was_dialect_normalized
+fact_0,우리 손주가 할아버지라고 하며 뛰어왔다.,손주가 할아버지에게 뛰어왔다.,"손주, 할아버지",일상활동,손주,0.0,현재,0,2025-09-04 05:10:04,우리 손주가 할부지~ 하고 뛰어오는데 억수로 귀엽더라카이.,우리 손주가 할아버지라고 하며 뛰어오는데 정말 귀엽더라고요.,NEW,1,0.9,True
+fact_1,우리 귀여운 아이와 키즈카페도 가고 운동장에서 신나게 뛰어놀았어요.,아이와 함께 키즈카페와 운동장에서 놀았다.,"아이, 키즈카페, 운동장",일상활동,손주,0.0,현재,,2025-09-04 05:11:03,우리 귀염둥이랑 키즈카페도 가고 운동장에서 뛰뛰 뛰어놀았데이. 근데 내가 늙은이라 신나게 놀아주지는 몬했심더.,우리 귀여운 아이와 키즈카페도 가고 운동장에서 신나게 뛰어놀았어요. 그런데 제가 나이가 많아서 신나게 놀아주지는 못했어요.,CONSISTENT,1,0.9,True
+fact_2,용돈만 자주 드리려고 합니다.,사용자는 용돈을 자주 드릴 계획입니다.,용돈,계획,손주,0.0,현재,,2025-09-04 05:12:55,"사실 자주 놀아주지는 몬하고, 그냥 용돈만 자주 주려고 카이.","사실 자주 놀아드리지는 못하고, 그냥 용돈만 자주 드리려고 합니다.",CONSISTENT,1,0.9,True
